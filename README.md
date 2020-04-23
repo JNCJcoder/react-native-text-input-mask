@@ -11,7 +11,7 @@
 </h4>
 
 <h4 align="center">
-<a href="https://github.com/drawciamage/react-native-text-input-mask/LICENSE">
+<a href="https://github.com/drawciamage/react-native-text-input-mask/blob/master/LICENSE">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT license." />
 </a>
 </h4>
