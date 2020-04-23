@@ -12,7 +12,7 @@ const unmask = NativeModules.RNTextInputMask.unmask;
 const setMask = NativeModules.RNTextInputMask.setMask;
 export { mask, unmask, setMask };
 
-const TextInputMask = (props, input) => {
+const TextInputMask = (props) => {
   const [masked, setMasked] = useState(false);
   const input = useRef();
 
