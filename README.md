@@ -44,7 +44,7 @@ npm install --save drawciamage/react-native-text-input-mask
 yarn add https://github.com/drawciamage/react-native-text-input-mask.git
 ```
 
-# 💻 Installation
+## 💻 Installation
 
 <details>
   <summary><b>For RN >= 0.61</b></summary>
